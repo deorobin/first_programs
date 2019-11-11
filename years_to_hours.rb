@@ -18,4 +18,3 @@ age = age.to_i
 seconds = age * (365 * 24 * 60)
 seconds = seconds.to_s
 puts "That's #{seconds} seconds."
-
